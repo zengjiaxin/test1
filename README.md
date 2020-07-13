@@ -5,4 +5,4 @@ $W$12344
 -fix-B
 
 #git
--fecture-C
+-feature-C
